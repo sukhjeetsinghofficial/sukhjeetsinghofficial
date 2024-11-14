@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects to learn more about real world projects.
 - 📫 How to reach me contact me on ✉️ sukhjeetsinghofficial5@gmail.com.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Knowledge i multiple fields like software, operating systems, DSA, AI\ML, blockchain, etc.
+- ⚡ Fun fact: Knowledge in multiple fields like software, operating systems, DSA, AI\ML, blockchain, etc.
 
 <!---
 sukhjeetsinghofficial/sukhjeetsinghofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
